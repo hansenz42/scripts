@@ -6,7 +6,7 @@ else
     mkdir ~/.config
 fi
 
-git clone https://github.com/hansenz42/nvim.git ~/.config/nvim
+git clone https://github.com/hansenz42/nvim.git ~/.config
 
 # install neovim (0.9.5)
 wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim.appimage
