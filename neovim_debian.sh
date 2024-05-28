@@ -12,7 +12,7 @@ git clone https://github.com/hansenz42/nvim.git ~/.config/nvim
 wget https://github.com/neovim/neovim/releases/download/v0.9.5/nvim.appimage
 chmod 755 nvim.appimage
 
-ehco "installing nvim to ~.local/bin..."
+ehco "installing nvim to ~/.local/bin..."
 
 # check nvim config path
 if [ -d "~/.local/bin" ]; then
